@@ -1,0 +1,34 @@
+{
+  "name": "muj-museum-chatbot",
+  "version": "0.0.1",
+  "description": "'Electron framework' based HTML/JavaScript App, integrated to LM-Studio hosted Local LLM, communicating via @lmstudio/sdk, targeted to be scaled up to LangChain if/when required.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amtayaji002/AarnaApps-R00001-Local-LLM-Chatbot.git"
+  },
+  "keywords": [
+    "Local",
+    "LLM",
+    "Local LLM",
+    "LM Studio",
+    "Electron",
+    "Framework",
+    "ChatBot",
+    "History",
+    "Museum"
+  ],
+  "author": "Aarna Tyagi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amtayaji002/AarnaApps-R00001-Local-LLM-Chatbot/issues"
+  },
+  "homepage": "https://github.com/amtayaji002/AarnaApps-R00001-Local-LLM-Chatbot#readme",
+  "devDependencies": {
+    "electron": "^32.0.1"
+  }
+}
