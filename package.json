@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/amtayaji002/AarnaApps-R00001-Local-LLM-Chatbot#readme",
   "devDependencies": {
+    "@electron-forge/cli": "^7.4.0",
     "electron": "^32.0.1"
   }
 }
